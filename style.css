@@ -3,3 +3,97 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+footer {
+
+    background-color: #CDCDCD;
+    
+    margin-right: 10%;
+    
+    margin-left: 10%;
+    
+    display: block;
+    
+    border: none solid black;
+    
+    width: 80%;
+    
+    height: 550px;
+    
+    
+    
+    
+    }
+    
+
+
+
+footer section {
+
+    width: 30%;
+    
+    height: 400px;
+    
+    border: none solid black;
+    
+    margin-left: 3%;
+    
+    margin-top: 3%;
+    
+    float: left;
+    
+    }
+
+    section img {
+
+        width: 100%;
+        
+        height: 200px;
+
+
+
+
+    }
+
+
+
+    section input {
+
+        border: 1px solid black;
+        
+        border-radius: 40px;
+        
+        width: 100px;
+        
+        height: 40px;
+        
+        color: black;
+        
+        
+        }
+        
+        input[name="CLIC"] {
+        
+        
+        background-color: aqua;
+        
+        color: white;
+        
+        }
+        
+        input[name="SENAC"] {
+        
+        background-color: blueviolet;
+        
+        
+        color: white;
+        
+        }
+        
+        input[name="TERRA"] {
+        
+        background-color: cornflowerblue;
+        
+        color: white;
+        
+        }
