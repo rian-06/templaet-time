@@ -3,6 +3,7 @@
     padding: 0;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
 Header {
     width: 80%;
     height: 400px;
@@ -21,3 +22,34 @@ Header {
     margin-top: 15%;
     margin-left: 37%;
 }
+
+
+main{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 800px;
+    border: 1px solid white;
+}
+
+h2 {
+    margin-left: 5%;
+    margin-top: 3%;
+}
+
+#tigre-arte {
+    width: 90%;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 3%;
+    border-radius: 3%;
+}
+
+.pmain{
+    margin-left: 5%;
+    margin-right: 5%;
+    text-align: justify;
+    margin-top: 3%;
+}
+
