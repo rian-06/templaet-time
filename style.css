@@ -66,6 +66,8 @@ footer section {
         width: 100px;
         
         height: 40px;
+
+        margin-top: 20px;
         
         color: black;
         
@@ -74,8 +76,9 @@ footer section {
         
         input[name="CLIC"] {
         
+        margin-top: 40px;
         
-        background-color: aqua;
+        background-color: yellowgreen;
         
         color: white;
         
@@ -83,9 +86,10 @@ footer section {
         
         input[name="SENAC"] {
         
-        background-color: blueviolet;
+        background-color: blue;
         
-        
+        margin-top: 23px;
+
         color: white;
         
         }
@@ -94,6 +98,8 @@ footer section {
         
         background-color: cornflowerblue;
         
+        margin-top: 22px;
+
         color: white;
         
         }
