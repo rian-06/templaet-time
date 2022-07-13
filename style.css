@@ -5,7 +5,6 @@
 }
 
 footer {
-
     background-color: #CDCDCD;
     
     margin-right: 10%;
@@ -15,21 +14,13 @@ footer {
     display: block;
     
     border: none solid black;
-    
+
     width: 80%;
-    
-    height: 550px;
-    
-    
-    
-    
+
+    height: 550px; 
     }
-    
-
-
 
 footer section {
-
     width: 30%;
     
     height: 400px;
@@ -40,25 +31,18 @@ footer section {
     
     margin-top: 3%;
     
-    float: left;
-    
+    float: left;    
     }
 
     section img {
-
         width: 100%;
         
         height: 200px;
-
-
-
-
     }
 
 
 
     section input {
-
         border: 1px solid black;
         
         border-radius: 40px;
@@ -70,36 +54,28 @@ footer section {
         margin-top: 20px;
         
         color: black;
-        
-        
         }
         
         input[name="RAPOSA"] {
-        
         margin-top: 40px;
         
         background-color: yellowgreen;
         
         color: white;
-        
         }
         
         input[name="DRAGAO1"] {
-        
         background-color: blue;
         
         margin-top: 23px;
 
         color: white;
-        
         }
         
         input[name="DRAGAO2"] {
-        
         background-color: cornflowerblue;
         
         margin-top: 22px;
 
         color: white;
-        
         }
